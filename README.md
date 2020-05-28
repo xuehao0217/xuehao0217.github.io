@@ -1,3 +1,1 @@
-# xuehao0217.github.io
-自己的第一个网站！
-[自己的第一个网站](https://xuehao0217.github.io/post/renshengsikao/)
+#[自己的第一个网站](https://xuehao0217.github.io/post/renshengsikao/)
